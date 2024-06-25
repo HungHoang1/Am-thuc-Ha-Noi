@@ -21,3 +21,18 @@
     
 
 }
+.explore-menu-list-item img{
+    width: 7.5vw;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: 0.2s;
+
+
+}
+.explore-menu-list-item p{
+    margin-top: 10x;
+    color: #747474;
+    font-size: max(1.2vw , 16px);
+    cursor: pointer;
+
+}

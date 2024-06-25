@@ -2,14 +2,14 @@ import basket_icon from './basket_icon.png'
 import logo from './logo.png'
 import header_img from './header_img.png'
 import search_icon from './search_icon.png'
-import menu_1 from './menu_1.png'
-import menu_2 from './menu_2.png'
-import menu_3 from './menu_3.png'
-import menu_4 from './menu_4.png'
-import menu_5 from './menu_5.png'
-import menu_6 from './menu_6.png'
-import menu_7 from './menu_7.png'
-import menu_8 from './menu_8.png'
+import pho from './pho.png'
+import buncha from './buncha.png'
+import bunthang from './bunthang.png'
+import bunrieu from './bunrieu.png'
+import banhcuon from './banhcuon.png'
+import chaca from './chaca.png'
+import xoikhuc from './xoikhuc.png'
+import bundau from './bundau.png'
 
 import food_1 from './food_1.png'
 import food_2 from './food_2.png'
@@ -85,35 +85,35 @@ export const assets = {
 export const menu_list = [
     {
         menu_name: "Phở",
-        menu_image: menu_1
+        menu_image: pho
     },
     {
         menu_name: "Bún chả",
-        menu_image: menu_2
+        menu_image: buncha
     },
     {
-        menu_name: "Deserts",
-        menu_image: menu_3
+        menu_name: "Bún Thang",
+        menu_image: bunthang
     },
     {
-        menu_name: "Sandwich",
-        menu_image: menu_4
+        menu_name: "Chả cá Lã Vọng",
+        menu_image: chaca
     },
     {
-        menu_name: "Cake",
-        menu_image: menu_5
+        menu_name: "Bánh Cuốn",
+        menu_image: banhcuon
     },
     {
-        menu_name: "Pure Veg",
-        menu_image: menu_6
+        menu_name: "Bún Đậu Mắm Tôm",
+        menu_image: bundau
     },
     {
-        menu_name: "Pasta",
-        menu_image: menu_7
+        menu_name: "Bún riêu Hà Nội",
+        menu_image: bunrieu
     },
     {
-        menu_name: "Noodles",
-        menu_image: menu_8
+        menu_name: "Xôi Khúc",
+        menu_image: xoikhuc
     }]
 
 export const food_list = [
